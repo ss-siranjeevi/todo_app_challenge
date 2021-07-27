@@ -1,0 +1,9 @@
+.login{
+  margin: 25vh 40vw
+}
+
+.login_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
